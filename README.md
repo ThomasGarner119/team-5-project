@@ -8,3 +8,8 @@ This project aims to democratize complex environmental data by developing an int
 Retrieveed from: 'https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production/data'
 -Hannah Ritchie, Pablo Rosado, and Max Roser (2022) - “Environmental Impacts of Food Production” Published online at OurWorldinData.org. 
 Retrieved from: 'https://ourworldindata.org/environmental-impacts-of-food' [Online Resource]
+
+## Team Contributions
+
+**Sunny Bhakta:** Data Cleaning and reprocessing & Writing analysis code and producing visualizations
+

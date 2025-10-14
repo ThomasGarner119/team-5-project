@@ -11,5 +11,5 @@ Retrieved from: 'https://ourworldindata.org/environmental-impacts-of-food' [Onli
 
 ## Team Contributions
 
-
+**Sunny Bhakta**: Data Cleaning and reprocessing & Writing analysis code and producing visualizations
 

@@ -12,5 +12,5 @@ Retrieved from: 'https://ourworldindata.org/environmental-impacts-of-food' [Onli
 ## Team Contributions
 
 **Sunny Bhakta:** Data Cleaning and reprocessing & Writing analysis code and producing visualizations   
-**Michel Dombrowsky:** Building the Streamlit application
-**Nathan Risenhoover:** Writing documentation and project report
+**Michel Dombrowsky:** Building the Streamlit application   
+**Nathan Risenhoover:** Writing documentation and project report   

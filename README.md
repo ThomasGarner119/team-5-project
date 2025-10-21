@@ -14,4 +14,10 @@ Retrieved from: 'https://ourworldindata.org/environmental-impacts-of-food' [Onli
 **Sunny Bhakta:** Data Cleaning and reprocessing & Writing analysis code and producing visualizations   
 **Michel Dombrowsky:** Building the Streamlit application   
 **Nathan Risenhoover:** Writing documentation and project report   
-**Alfred Lynch:** Data Research and Justification
+**Alfred Lynch:** Data Research and Justification   
+**Thomas Garner** Managing github Workflow   
+
+
+# Conclusion   
+
+The team added their respective contributions and we will begin on the next steps to further develop the project.   
